@@ -1,0 +1,16 @@
+.display{
+    font-size: 100px;
+    border: 1px solid;
+    border-radius: 0.8rem;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    background: aqua;
+    font-weight: 500;
+}
+.textRed{
+    color: red;
+}
+.text{
+    color: black;
+}
